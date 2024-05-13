@@ -7,7 +7,7 @@
 - link:
     ~/.config/nvim:
       path: .config/nvim
-    ~/AppData/Local/nvim:
+    ~/AppData/local/nvim:
       path: ".config/nvim"
 
 - create:
