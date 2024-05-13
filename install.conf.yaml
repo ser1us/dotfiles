@@ -4,8 +4,11 @@
 
 - clean: ["~"]
 
-- link: 
-    ~/.config/nvim: .config/nvim
+- link:
+    ~/.config/nvim:
+      path: .config/nvim
+    ~/AppData/Local/nvim:
+      path: ".config/nvim"
 
 - create:
     - ~/downloads
