@@ -11,6 +11,9 @@
     ~/AppData/local/nvim:
       create: true
       path: ".config/nvim"
+    ~/.tmux.conf:
+      create: true
+      path: .config/.tmux.conf
 
 - create:
     - ~/downloads
