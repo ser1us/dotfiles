@@ -17,12 +17,12 @@
     ~/.local/bin/tmux-ch.sh:
       create: true
       path: home/.local/bin/tmux-ch.sh
-    ~/.tmux-cht-languages:
+    ~/.cht-languages:
       create: true
-      path: home/.tmux-cht-languages
-    ~/.tmux-cht-command:
+      path: home/.cht-languages
+    ~/.cht-command:
       create: true
-      path: home/.tmux-cht-command
+      path: home/.cht-command
 - create:
     - ~/downloads
     - ~/development
