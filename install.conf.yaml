@@ -14,6 +14,9 @@
     ~/.tmux.conf:
       create: true
       path: .config/.tmux.conf
+    ~/.local/bin/tmux-ch.sh:
+      create: true
+      path: .local/bin/tmux-ch.sh
 
 - create:
     - ~/downloads
