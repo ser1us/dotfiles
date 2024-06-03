@@ -14,9 +14,9 @@
     ~/.tmux.conf:
       create: true
       path: home/.config/.tmux.conf
-    ~/.local/bin/tmux-ch.sh:
+    ~/.local/bin/cht.sh:
       create: true
-      path: home/.local/bin/tmux-ch.sh
+      path: home/.local/bin/cht.sh
     ~/.cht-languages:
       create: true
       path: home/.cht-languages
