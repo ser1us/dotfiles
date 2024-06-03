@@ -17,6 +17,9 @@
     ~/.local/bin/cht.sh:
       create: true
       path: home/.local/bin/cht.sh
+    ~/.local/bin/dot-update.sh:
+      create: true
+      path: home/.local/bin/dot-update.sh
     ~/.cht-languages:
       create: true
       path: home/.cht-languages
