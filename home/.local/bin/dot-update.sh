@@ -4,4 +4,4 @@
 cd ~/.dotfiles
 
 git pull --rebase
-./install.sh
+./install
