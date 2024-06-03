@@ -10,7 +10,7 @@
       path: home/.config/nvim
     ~/AppData/local/nvim:
       create: true
-      path: home/".config/nvim"
+      path: home/.config/nvim
     ~/.tmux.conf:
       create: true
       path: home/.config/.tmux.conf
