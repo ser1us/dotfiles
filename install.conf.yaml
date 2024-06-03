@@ -7,17 +7,22 @@
 - link:
     ~/.config/nvim:
       create: true
-      path: .config/nvim
+      path: home/.config/nvim
     ~/AppData/local/nvim:
       create: true
-      path: ".config/nvim"
+      path: home/".config/nvim"
     ~/.tmux.conf:
       create: true
-      path: .config/.tmux.conf
+      path: home/.config/.tmux.conf
     ~/.local/bin/tmux-ch.sh:
       create: true
-      path: .local/bin/tmux-ch.sh
-
+      path: home/.local/bin/tmux-ch.sh
+    ~/.tmux-cht-languages:
+      create: true
+      path: home/.tmux-cht-languages
+    ~/.tmux-cht-command:
+      create: true
+      path: home/.tmux-cht-command
 - create:
     - ~/downloads
     - ~/development
