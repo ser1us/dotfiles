@@ -1,7 +1,5 @@
 {
   "extras": [
-    "lazyvim.plugins.extras.coding.copilot",
-    "lazyvim.plugins.extras.coding.copilot-chat",
     "lazyvim.plugins.extras.dap.core",
     "lazyvim.plugins.extras.editor.leap",
     "lazyvim.plugins.extras.editor.mini-diff",
@@ -31,7 +29,7 @@
     "lazyvim.plugins.extras.util.mini-hipatterns"
   ],
   "news": {
-    "NEWS.md": "6707"
+    "NEWS.md": "6520"
   },
   "version": 6
 }
