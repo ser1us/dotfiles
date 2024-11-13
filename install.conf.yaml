@@ -5,6 +5,12 @@
 - clean: ["~"]
 
 - link:
+    ~/.config/zellij:
+      create: true
+      path: home/.config/zellij
+    ~/.config/zed:
+      create: true
+      path: home/.config/zed
     ~/.config/nvim:
       create: true
       path: home/.config/nvim
