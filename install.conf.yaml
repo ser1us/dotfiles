@@ -32,6 +32,9 @@
     ~/.cht-command:
       create: true
       path: home/.cht-command
+    ~/.tool-versions:
+      create: true
+      path: home/.tool-versions
 - create:
     - ~/downloads
     - ~/development
