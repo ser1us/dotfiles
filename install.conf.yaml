@@ -38,6 +38,12 @@
     ~/.tool-versions:
       create: true
       path: home/.tool-versions
+    ~/.gitconfig:
+      create: true
+      path: home/.gitconfig
+    ~/.gitattributes:
+      create: true
+      path: home/.gitattributes
 - create:
     - ~/downloads
     - ~/development
