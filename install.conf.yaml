@@ -11,6 +11,9 @@
     ~/.config/zed:
       create: true
       path: home/.config/zed
+    ~/.config/lazygit:
+      create: true
+      path: home/.config/lazygit
     ~/.config/nvim:
       create: true
       path: home/.config/nvim
