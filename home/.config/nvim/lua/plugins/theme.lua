@@ -2,7 +2,6 @@ return {
   {
     "catppuccin/nvim",
     name = "catppuccin",
-    -- priority = 1000,
   },
   {
     "shaunsingh/nord.nvim",
@@ -19,7 +18,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "catppuccin-latte",
+      colorscheme = "catppuccin",
       -- colorscheme = "nord",
       -- colorscheme = "tokyonight-day",
     },
