@@ -20,7 +20,7 @@ return {
     opts = {
       -- colorscheme = "catppuccin",
       -- colorscheme = "nord",
-      colorscheme = "tokyonight-day",
+      -- colorscheme = "tokyonight-day",
       -- colorscheme = "tokyonight",
     },
   },
