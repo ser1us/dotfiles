@@ -7,28 +7,28 @@
 - link:
     ~/.config/zellij:
       create: true
-      path: home/.config/zellij
+      path: home/config/zellij
     ~/.config/zed:
       create: true
-      path: home/.config/zed
+      path: home/config/zed
     ~/.config/lazygit:
       create: true
-      path: home/.config/lazygit
+      path: home/config/lazygit
     ~/.config/nvim:
       create: true
-      path: home/.config/nvim
+      path: home/config/nvim
     ~/AppData/local/nvim:
       create: true
-      path: home/.config/nvim
+      path: home/config/nvim
     ~/.tmux.conf:
       create: true
-      path: home/.config/.tmux.conf
+      path: home/config/.tmux.conf
     ~/.local/bin/cht.sh:
       create: true
-      path: home/.local/bin/cht.sh
+      path: home/local/bin/cht.sh
     ~/.local/bin/dot-update.sh:
       create: true
-      path: home/.local/bin/dot-update.sh
+      path: home/local/bin/dot-update.sh
     ~/.cht-languages:
       create: true
       path: home/.cht-languages
