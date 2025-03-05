@@ -13,20 +13,22 @@ return {
   --     vim.cmd.colorscheme("edge")
   --   end,
   -- },
-  {
-    "Mofiqul/vscode.nvim",
-    config = function()
-      vim.g.edge_enable_italic = true
-      vim.g.edge_style = "default"
-      vim.o.background = "light"
-      vim.cmd.colorscheme("edge")
-    end,
-  },
+  -- {
+  --   "Mofiqul/vscode.nvim",
+  --   config = function()
+  --     vim.g.edge_enable_italic = true
+  --     vim.g.edge_style = "default"
+  --     vim.o.background = "light"
+  --     vim.cmd.colorscheme("edge")
+  --   end,
+  -- },
+  --
+  { "yorickpeterse/nvim-grey" },
 
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "vscode",
+      colorscheme = "grey",
     },
   },
 }
