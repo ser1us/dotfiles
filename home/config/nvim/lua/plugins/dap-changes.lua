@@ -1,10 +1,12 @@
-return {
-  "nvim-neotest/neotest",
-  opts = {
-    adapters = {
-      ["neotest-dotnet"] = {
-        discovery_root = "solution",
-      },
-    },
-  },
-}
+return {}
+
+-- return {
+--   "nvim-neotest/neotest",
+--   opts = {
+--     adapters = {
+--       ["neotest-dotnet"] = {
+--         discovery_root = "solution",
+--       },
+--     },
+--   },
+-- }
