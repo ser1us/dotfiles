@@ -5,6 +5,9 @@
 - clean: ["~"]
 
 - link:
+    ~/.flox:
+      create: true
+      path: home/flox
     ~/.config/zellij:
       create: true
       path: home/config/zellij
