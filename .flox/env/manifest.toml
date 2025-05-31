@@ -15,15 +15,6 @@ version = 1
 ##  $ flox show gum     <- show all versions of a package
 ## -------------------------------------------------------------------
 [install]
-ripgrep.pkg-path = "ripgrep"
-fzf.pkg-path = "fzf"
-fd.pkg-path = "fd"
-lazygit.pkg-path = "lazygit"
-lazydocker.pkg-path = "lazydocker"
-btop.pkg-path = "btop"
-fastfetch.pkg-path = "fastfetch"
-zoxide.pkg-path = "zoxide"
-eza.pkg-path = "eza"
 # gum.pkg-path = "gum"
 # gum.version = "^0.14.5"
 
@@ -95,6 +86,3 @@ systems = [
 ]
 # Uncomment to disable CUDA detection.
 # cuda-detection = false
-
-[options.activate]
-mode = "run"
