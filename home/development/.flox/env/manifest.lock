@@ -15,6 +15,9 @@
       "go": {
         "pkg-path": "go"
       },
+      "hugo": {
+        "pkg-path": "hugo"
+      },
       "nodejs": {
         "pkg-path": "nodejs",
         "version": "22"
@@ -497,6 +500,122 @@
       ],
       "outputs": {
         "out": "/nix/store/5xvi25nqmbrg58aixp4zgczilfnp7pwg-go-1.24.3"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "hugo",
+      "broken": false,
+      "derivation": "/nix/store/r4gyd3s866c8m4nc00a7nw0503gs4ybd-hugo-0.147.5.drv",
+      "description": "Fast and modern static website engine",
+      "install_id": "hugo",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=96ec055edbe5ee227f28cdbc3f1ddf1df5965102",
+      "name": "hugo-0.147.5",
+      "pname": "hugo",
+      "rev": "96ec055edbe5ee227f28cdbc3f1ddf1df5965102",
+      "rev_count": 807377,
+      "rev_date": "2025-05-28T19:24:49Z",
+      "scrape_date": "2025-05-31T04:22:55.518980Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.147.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/hn2qwglm8bz7fzr180z56wsf2c0i1i5i-hugo-0.147.5"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "hugo",
+      "broken": false,
+      "derivation": "/nix/store/sv55z612442agchp4dj85j2q21bii04d-hugo-0.147.5.drv",
+      "description": "Fast and modern static website engine",
+      "install_id": "hugo",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=96ec055edbe5ee227f28cdbc3f1ddf1df5965102",
+      "name": "hugo-0.147.5",
+      "pname": "hugo",
+      "rev": "96ec055edbe5ee227f28cdbc3f1ddf1df5965102",
+      "rev_count": 807377,
+      "rev_date": "2025-05-28T19:24:49Z",
+      "scrape_date": "2025-05-31T04:41:03.648074Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.147.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/yamrmz7fdqz3p708ga0kgp0s6pdnxih4-hugo-0.147.5"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "hugo",
+      "broken": false,
+      "derivation": "/nix/store/qxgd6hs8vyispm4djqkf16as1ksjprhf-hugo-0.147.5.drv",
+      "description": "Fast and modern static website engine",
+      "install_id": "hugo",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=96ec055edbe5ee227f28cdbc3f1ddf1df5965102",
+      "name": "hugo-0.147.5",
+      "pname": "hugo",
+      "rev": "96ec055edbe5ee227f28cdbc3f1ddf1df5965102",
+      "rev_count": 807377,
+      "rev_date": "2025-05-28T19:24:49Z",
+      "scrape_date": "2025-05-31T04:56:59.970105Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.147.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/l64hby50szdw3vqfa4w6vszsabzb9xla-hugo-0.147.5"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "hugo",
+      "broken": false,
+      "derivation": "/nix/store/dibhr9vm41c692n2362rs0h1c581wjim-hugo-0.147.5.drv",
+      "description": "Fast and modern static website engine",
+      "install_id": "hugo",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=96ec055edbe5ee227f28cdbc3f1ddf1df5965102",
+      "name": "hugo-0.147.5",
+      "pname": "hugo",
+      "rev": "96ec055edbe5ee227f28cdbc3f1ddf1df5965102",
+      "rev_count": 807377,
+      "rev_date": "2025-05-28T19:24:49Z",
+      "scrape_date": "2025-05-31T05:15:58.258567Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.147.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/35bd3jb0z6hv2qll1h8j71zg11a1ks0x-hugo-0.147.5"
       },
       "system": "x86_64-linux",
       "group": "toplevel",
