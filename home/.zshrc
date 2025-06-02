@@ -103,3 +103,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Turso
+export PATH="$PATH:/home/christoph/.turso"
+
+eval "$(flox activate -d $HOME)"
