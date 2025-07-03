@@ -1,13 +1,13 @@
 return {
-  -- {
-  --   "catppuccin/nvim",
-  --   name = "catppuccin",
-  --   priority = 1000,
-  --   config = function()
-  --     vim.g.edge_enable_italic = true
-  --     vim.o.background = "light"
-  --   end,
-  -- },
+  {
+    "catppuccin/nvim",
+    name = "catppuccin",
+    priority = 1000,
+    config = function()
+      vim.g.edge_enable_italic = true
+      --vim.o.background = "light"
+    end,
+  },
 
   {
     "Mofiqul/vscode.nvim",
@@ -15,15 +15,15 @@ return {
 
     config = function()
       vim.g.edge_enable_italic = true
-      vim.o.background = "light"
+      -- vim.o.background = "light"
     end,
   },
 
   {
     "LazyVim/LazyVim",
     opts = {
-      -- colorscheme = "catppuccin",
-      colorscheme = "vscode",
+      colorscheme = "catppuccin-mocha",
+      --colorscheme = "vscode",
     },
   },
 }
