@@ -2,4 +2,6 @@
 -- Default options that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
 -- Add any additional options here
 
+vim.o.list = true
+vim.o.listchars = "tab:> ,trail:-,nbsp:+,lead:•,eol:↲"
 vim.opt.virtualedit = "block"
