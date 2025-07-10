@@ -8,9 +8,6 @@
     ~/.flox:
       create: true
       path: home/flox
-    ~/.config/zellij:
-      create: true
-      path: home/config/zellij
     ~/.config/zed:
       create: true
       path: home/config/zed
@@ -54,10 +51,9 @@
       create: true
       path: home/development/.flox
 - create:
-    - ~/downloads
-    - ~/development
+    - ~/Downloads
+    - ~/Development
     - ~/.vim/undo-history
 
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
-    - [sudo chsh -s $(which zsh), Making zsh the default shell]
