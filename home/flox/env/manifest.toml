@@ -66,6 +66,19 @@ direnv.pkg-path = "direnv"
 # zsh  = ...
 # fish = ...
 
+zsh = """
+  eval "$(direnv hook zsh)"
+"""
+bash = """
+  eval "$(direnv hook bash)"
+"""
+fish = """
+  direnv hook fish | source
+"""
+tcsh = """
+  eval `direnv hook tcsh`
+"""
+
 
 ## Services ----------------------------------------------------------
 ##  $ flox services start             <- Starts all services
@@ -99,3 +112,5 @@ systems = [
 
 [options.activate]
 mode = "run"
+
+

@@ -26,6 +26,7 @@ nodejs.version = "22"
 hugo.pkg-path = "hugo"
 postgresql.pkg-path = "postgresql"
 pgloader.pkg-path = "pgloader"
+deno.pkg-path = "deno"
 # gum.pkg-path = "gum"
 # gum.version = "^0.14.5"
 
