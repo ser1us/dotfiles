@@ -25,6 +25,7 @@ fastfetch.pkg-path = "fastfetch"
 zoxide.pkg-path = "zoxide"
 eza.pkg-path = "eza"
 direnv.pkg-path = "direnv"
+git-lfs.pkg-path = "git-lfs"
 # gum.pkg-path = "gum"
 # gum.version = "^0.14.5"
 

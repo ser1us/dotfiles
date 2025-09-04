@@ -15,6 +15,9 @@
       "erlang": {
         "pkg-path": "erlang"
       },
+      "git-lfs": {
+        "pkg-path": "git-lfs"
+      },
       "go": {
         "pkg-path": "go"
       },
@@ -33,6 +36,9 @@
       },
       "ruby": {
         "pkg-path": "ruby"
+      },
+      "zlib-ng": {
+        "pkg-path": "zlib-ng"
       }
     },
     "hook": {},
@@ -54,13 +60,13 @@
       "description": "Secure runtime for JavaScript and TypeScript",
       "install_id": "deno",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "deno-2.4.3",
       "pname": "deno",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T00:26:12.262407Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:27:09.848515Z",
       "stabilities": [
         "unstable"
       ],
@@ -83,13 +89,13 @@
       "description": "Secure runtime for JavaScript and TypeScript",
       "install_id": "deno",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "deno-2.4.3",
       "pname": "deno",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T01:59:38.407829Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:35:10.920573Z",
       "stabilities": [
         "unstable"
       ],
@@ -112,13 +118,13 @@
       "description": "Secure runtime for JavaScript and TypeScript",
       "install_id": "deno",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "deno-2.4.3",
       "pname": "deno",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:32:16.278605Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:43:49.744289Z",
       "stabilities": [
         "unstable"
       ],
@@ -141,13 +147,13 @@
       "description": "Secure runtime for JavaScript and TypeScript",
       "install_id": "deno",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "deno-2.4.3",
       "pname": "deno",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T03:13:25.206695Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T02:12:01.032466Z",
       "stabilities": [
         "unstable"
       ],
@@ -166,17 +172,17 @@
     {
       "attr_path": "dotnet-sdk_8",
       "broken": false,
-      "derivation": "/nix/store/iljc7p7yjhzmf34y7jiziizcj3j69kk8-dotnet-sdk-wrapped-8.0.413.drv",
+      "derivation": "/nix/store/8fzhdgd27iy3sc96iskabbzwavvqvf85-dotnet-sdk-wrapped-8.0.413.drv",
       "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
       "install_id": "dotnet-sdk_8",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "dotnet-sdk-wrapped-8.0.413",
       "pname": "dotnet-sdk_8",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T00:26:12.349978Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:27:09.924929Z",
       "stabilities": [
         "unstable"
       ],
@@ -186,7 +192,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/zv4g7x2hw15qdq1i5gy21j5h37hgjpxy-dotnet-sdk-wrapped-8.0.413"
+        "out": "/nix/store/rgsidwzps4x4av13gzpll7jr3sw93wd3-dotnet-sdk-wrapped-8.0.413"
       },
       "system": "aarch64-darwin",
       "group": "toplevel",
@@ -195,17 +201,17 @@
     {
       "attr_path": "dotnet-sdk_8",
       "broken": false,
-      "derivation": "/nix/store/818cpni1qkd1h1rml5icplrkjjyixmn5-dotnet-sdk-wrapped-8.0.413.drv",
+      "derivation": "/nix/store/f7d9h2j3q2xv7qryz6pvs7m8v7p9yk1j-dotnet-sdk-wrapped-8.0.413.drv",
       "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
       "install_id": "dotnet-sdk_8",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "dotnet-sdk-wrapped-8.0.413",
       "pname": "dotnet-sdk_8",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T01:59:38.525340Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:35:11.044833Z",
       "stabilities": [
         "unstable"
       ],
@@ -215,7 +221,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/c88hhi68g5l3q4s6n02z28l4an2gar0b-dotnet-sdk-wrapped-8.0.413"
+        "out": "/nix/store/dzy1y5vvg13giijqpk1j33z26niw81z0-dotnet-sdk-wrapped-8.0.413"
       },
       "system": "aarch64-linux",
       "group": "toplevel",
@@ -228,13 +234,13 @@
       "description": ".NET Runtime 8.0.19 (wrapper) (combined) (wrapper)",
       "install_id": "dotnet-sdk_8",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "dotnet-sdk-wrapped-8.0.413",
       "pname": "dotnet-sdk_8",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:32:16.356714Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:43:49.822584Z",
       "stabilities": [
         "unstable"
       ],
@@ -253,17 +259,17 @@
     {
       "attr_path": "dotnet-sdk_8",
       "broken": false,
-      "derivation": "/nix/store/in065ahfnmz1avqsz2y3zdxj5ygzcfy0-dotnet-sdk-wrapped-8.0.413.drv",
+      "derivation": "/nix/store/283a2jh49bcvsmkdppm18if1rlsqpmhh-dotnet-sdk-wrapped-8.0.413.drv",
       "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
       "install_id": "dotnet-sdk_8",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "dotnet-sdk-wrapped-8.0.413",
       "pname": "dotnet-sdk_8",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T03:13:25.344843Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T02:12:01.163995Z",
       "stabilities": [
         "unstable"
       ],
@@ -273,7 +279,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/g7gwwffr0v6m1wlg8faxy81k4cckm3hl-dotnet-sdk-wrapped-8.0.413"
+        "out": "/nix/store/0is16rv4vymzjfwlc0gbpfa2wf7gza99-dotnet-sdk-wrapped-8.0.413"
       },
       "system": "x86_64-linux",
       "group": "toplevel",
@@ -286,13 +292,13 @@
       "description": "Functional, meta-programming aware language built on top of the Erlang VM",
       "install_id": "elixir",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "elixir-1.18.4",
       "pname": "elixir",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T00:26:12.433024Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:27:10.023093Z",
       "stabilities": [
         "unstable"
       ],
@@ -315,13 +321,13 @@
       "description": "Functional, meta-programming aware language built on top of the Erlang VM",
       "install_id": "elixir",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "elixir-1.18.4",
       "pname": "elixir",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T01:59:38.676200Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:35:11.196258Z",
       "stabilities": [
         "unstable"
       ],
@@ -344,13 +350,13 @@
       "description": "Functional, meta-programming aware language built on top of the Erlang VM",
       "install_id": "elixir",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "elixir-1.18.4",
       "pname": "elixir",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:32:16.456605Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:43:49.926078Z",
       "stabilities": [
         "unstable"
       ],
@@ -373,13 +379,13 @@
       "description": "Functional, meta-programming aware language built on top of the Erlang VM",
       "install_id": "elixir",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "elixir-1.18.4",
       "pname": "elixir",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T03:13:25.523191Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T02:12:01.336502Z",
       "stabilities": [
         "unstable"
       ],
@@ -402,13 +408,13 @@
       "description": "Programming language used for massively scalable soft real-time systems",
       "install_id": "erlang",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "erlang-27.3.4.2",
       "pname": "erlang",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T00:26:12.467563Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:27:10.063521Z",
       "stabilities": [
         "unstable"
       ],
@@ -431,13 +437,13 @@
       "description": "Programming language used for massively scalable soft real-time systems",
       "install_id": "erlang",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "erlang-27.3.4.2",
       "pname": "erlang",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T01:59:38.742627Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:35:11.267051Z",
       "stabilities": [
         "unstable"
       ],
@@ -460,13 +466,13 @@
       "description": "Programming language used for massively scalable soft real-time systems",
       "install_id": "erlang",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "erlang-27.3.4.2",
       "pname": "erlang",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:32:16.496723Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:43:49.966342Z",
       "stabilities": [
         "unstable"
       ],
@@ -489,13 +495,13 @@
       "description": "Programming language used for massively scalable soft real-time systems",
       "install_id": "erlang",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "erlang-27.3.4.2",
       "pname": "erlang",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T03:13:25.597517Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T02:12:01.410903Z",
       "stabilities": [
         "unstable"
       ],
@@ -512,19 +518,135 @@
       "priority": 5
     },
     {
+      "attr_path": "git-lfs",
+      "broken": false,
+      "derivation": "/nix/store/y3lc64svwf06zzgay3pv01cs03fcr78h-git-lfs-3.6.1.drv",
+      "description": "Git extension for versioning large files",
+      "install_id": "git-lfs",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "name": "git-lfs-3.6.1",
+      "pname": "git-lfs",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:27:10.422203Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.6.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/qhisfvg72gwzi844qzpq2f9rqkl66yjj-git-lfs-3.6.1"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "git-lfs",
+      "broken": false,
+      "derivation": "/nix/store/h06qri8h9cdximjd1xch6pgglbxsbk86-git-lfs-3.6.1.drv",
+      "description": "Git extension for versioning large files",
+      "install_id": "git-lfs",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "name": "git-lfs-3.6.1",
+      "pname": "git-lfs",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:35:11.822390Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.6.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/bv744six1pnpm397vlm6h2iblsc946m9-git-lfs-3.6.1"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "git-lfs",
+      "broken": false,
+      "derivation": "/nix/store/8mphdxm964z30vvlx77acbbd29na6m9b-git-lfs-3.6.1.drv",
+      "description": "Git extension for versioning large files",
+      "install_id": "git-lfs",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "name": "git-lfs-3.6.1",
+      "pname": "git-lfs",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:43:50.293708Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.6.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/v80pawvv6ycifwh99i1f36icawcjvs4l-git-lfs-3.6.1"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "git-lfs",
+      "broken": false,
+      "derivation": "/nix/store/x4r7rky02d9xisk543qlx5m8a2a5fr1f-git-lfs-3.6.1.drv",
+      "description": "Git extension for versioning large files",
+      "install_id": "git-lfs",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "name": "git-lfs-3.6.1",
+      "pname": "git-lfs",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T02:12:02.022719Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.6.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/q2js6j9d31lrr9csaqr7n0p1pcfs4y7v-git-lfs-3.6.1"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
       "attr_path": "go",
       "broken": false,
       "derivation": "/nix/store/64rdsj50y7y019hy08vjn9bbkqs4xv94-go-1.24.5.drv",
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "go-1.24.5",
       "pname": "go",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T00:26:12.819795Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:27:10.512809Z",
       "stabilities": [
         "unstable"
       ],
@@ -547,13 +669,13 @@
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "go-1.24.5",
       "pname": "go",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T01:59:39.765053Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:35:12.319658Z",
       "stabilities": [
         "unstable"
       ],
@@ -576,13 +698,13 @@
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "go-1.24.5",
       "pname": "go",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:32:16.955856Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:43:50.431386Z",
       "stabilities": [
         "unstable"
       ],
@@ -605,13 +727,13 @@
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "go-1.24.5",
       "pname": "go",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T03:13:26.771854Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T02:12:02.595173Z",
       "stabilities": [
         "unstable"
       ],
@@ -634,13 +756,13 @@
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "nodejs-22.17.0",
       "pname": "nodejs",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T00:26:15.651181Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:27:13.828687Z",
       "stabilities": [
         "unstable"
       ],
@@ -665,13 +787,13 @@
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "nodejs-22.17.0",
       "pname": "nodejs",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T01:59:51.253248Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:35:23.995432Z",
       "stabilities": [
         "unstable"
       ],
@@ -696,13 +818,13 @@
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "nodejs-22.17.0",
       "pname": "nodejs",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:32:20.293165Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:43:53.771203Z",
       "stabilities": [
         "unstable"
       ],
@@ -727,13 +849,13 @@
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "nodejs-22.17.0",
       "pname": "nodejs",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T03:13:40.696589Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T02:12:16.490100Z",
       "stabilities": [
         "unstable"
       ],
@@ -758,13 +880,13 @@
       "description": "Loads data into PostgreSQL and allows you to implement Continuous Migration from your current database to PostgreSQL",
       "install_id": "pgloader",
       "license": "PostgreSQL",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "pgloader-3.6.9",
       "pname": "pgloader",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T00:26:20.634002Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:27:19.765600Z",
       "stabilities": [
         "unstable"
       ],
@@ -787,13 +909,13 @@
       "description": "Loads data into PostgreSQL and allows you to implement Continuous Migration from your current database to PostgreSQL",
       "install_id": "pgloader",
       "license": "PostgreSQL",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "pgloader-3.6.9",
       "pname": "pgloader",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:00:02.023067Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:35:34.829972Z",
       "stabilities": [
         "unstable"
       ],
@@ -816,13 +938,13 @@
       "description": "Loads data into PostgreSQL and allows you to implement Continuous Migration from your current database to PostgreSQL",
       "install_id": "pgloader",
       "license": "PostgreSQL",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "pgloader-3.6.9",
       "pname": "pgloader",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:32:26.244546Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:43:59.727204Z",
       "stabilities": [
         "unstable"
       ],
@@ -845,13 +967,13 @@
       "description": "Loads data into PostgreSQL and allows you to implement Continuous Migration from your current database to PostgreSQL",
       "install_id": "pgloader",
       "license": "PostgreSQL",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "pgloader-3.6.9",
       "pname": "pgloader",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T03:13:52.405828Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T02:12:28.346353Z",
       "stabilities": [
         "unstable"
       ],
@@ -874,13 +996,13 @@
       "description": "Powerful, open source object-relational database system",
       "install_id": "postgresql",
       "license": "PostgreSQL",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "postgresql-17.5",
       "pname": "postgresql",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T00:26:21.415118Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:27:20.780908Z",
       "stabilities": [
         "unstable"
       ],
@@ -912,13 +1034,13 @@
       "description": "Powerful, open source object-relational database system",
       "install_id": "postgresql",
       "license": "PostgreSQL",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "postgresql-17.5",
       "pname": "postgresql",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:00:04.587282Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:35:37.167681Z",
       "stabilities": [
         "unstable"
       ],
@@ -951,13 +1073,13 @@
       "description": "Powerful, open source object-relational database system",
       "install_id": "postgresql",
       "license": "PostgreSQL",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "postgresql-17.5",
       "pname": "postgresql",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:32:27.168916Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:44:00.669323Z",
       "stabilities": [
         "unstable"
       ],
@@ -989,13 +1111,13 @@
       "description": "Powerful, open source object-relational database system",
       "install_id": "postgresql",
       "license": "PostgreSQL",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "postgresql-17.5",
       "pname": "postgresql",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T03:13:54.878259Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T02:12:30.907624Z",
       "stabilities": [
         "unstable"
       ],
@@ -1028,13 +1150,13 @@
       "description": "High-level dynamically-typed programming language",
       "install_id": "python3",
       "license": "Python-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "python3-3.13.5",
       "pname": "python3",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T00:26:22.143369Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:27:21.652687Z",
       "stabilities": [
         "unstable"
       ],
@@ -1057,13 +1179,13 @@
       "description": "High-level dynamically-typed programming language",
       "install_id": "python3",
       "license": "Python-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "python3-3.13.5",
       "pname": "python3",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:00:06.295430Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:35:38.756212Z",
       "stabilities": [
         "unstable"
       ],
@@ -1087,13 +1209,13 @@
       "description": "High-level dynamically-typed programming language",
       "install_id": "python3",
       "license": "Python-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "python3-3.13.5",
       "pname": "python3",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:32:28.050323Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:44:01.590777Z",
       "stabilities": [
         "unstable"
       ],
@@ -1116,13 +1238,13 @@
       "description": "High-level dynamically-typed programming language",
       "install_id": "python3",
       "license": "Python-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "python3-3.13.5",
       "pname": "python3",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T03:13:56.690493Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T02:12:32.720434Z",
       "stabilities": [
         "unstable"
       ],
@@ -1146,13 +1268,13 @@
       "description": "Object-oriented language for quick and easy programming",
       "install_id": "ruby",
       "license": "Ruby",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "ruby-3.3.8",
       "pname": "ruby",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T00:26:45.383590Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:27:50.797685Z",
       "stabilities": [
         "unstable"
       ],
@@ -1176,13 +1298,13 @@
       "description": "Object-oriented language for quick and easy programming",
       "install_id": "ruby",
       "license": "Ruby",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "ruby-3.3.8",
       "pname": "ruby",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:00:49.941682Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:36:21.879428Z",
       "stabilities": [
         "unstable"
       ],
@@ -1206,13 +1328,13 @@
       "description": "Object-oriented language for quick and easy programming",
       "install_id": "ruby",
       "license": "Ruby",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "ruby-3.3.8",
       "pname": "ruby",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T02:32:56.427902Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:44:30.662185Z",
       "stabilities": [
         "unstable"
       ],
@@ -1236,13 +1358,13 @@
       "description": "Object-oriented language for quick and easy programming",
       "install_id": "ruby",
       "license": "Ruby",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=005433b926e16227259a1843015b5b2b7f7d1fc3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
       "name": "ruby-3.3.8",
       "pname": "ruby",
-      "rev": "005433b926e16227259a1843015b5b2b7f7d1fc3",
-      "rev_count": 843472,
-      "rev_date": "2025-08-12T19:39:21Z",
-      "scrape_date": "2025-08-14T03:14:42.772999Z",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T02:13:18.714290Z",
       "stabilities": [
         "unstable"
       ],
@@ -1254,6 +1376,130 @@
       "outputs": {
         "devdoc": "/nix/store/ml46djgc8rr1nl2wbyyclx9bz1y2gwx6-ruby-3.3.8-devdoc",
         "out": "/nix/store/xz4msjk94m7r5kn7fpi186w0vn9lm839-ruby-3.3.8"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "zlib-ng",
+      "broken": false,
+      "derivation": "/nix/store/x2x58fi4qkwh55ni76x50sfayp9jcj5m-zlib-ng-2.2.4.drv",
+      "description": "zlib data compression library for the next generation systems",
+      "install_id": "zlib-ng",
+      "license": "Zlib",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "name": "zlib-ng-2.2.4",
+      "pname": "zlib-ng",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:28:42.129672Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.2.4",
+      "outputs_to_install": [
+        "bin"
+      ],
+      "outputs": {
+        "bin": "/nix/store/3z1lbpwal9c1anh764jns1jkql31m5m2-zlib-ng-2.2.4-bin",
+        "dev": "/nix/store/3w9cm9djjzszvsmvn328fg58wzmzwpsx-zlib-ng-2.2.4-dev",
+        "out": "/nix/store/n1lm9lmamf25q9gdvjg1lk0g9khmgs4g-zlib-ng-2.2.4"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "zlib-ng",
+      "broken": false,
+      "derivation": "/nix/store/p4npnwil2qshapdnas3admhhkzzi4k38-zlib-ng-2.2.4.drv",
+      "description": "zlib data compression library for the next generation systems",
+      "install_id": "zlib-ng",
+      "license": "Zlib",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "name": "zlib-ng-2.2.4",
+      "pname": "zlib-ng",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:37:32.158094Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.2.4",
+      "outputs_to_install": [
+        "bin"
+      ],
+      "outputs": {
+        "bin": "/nix/store/g3l5rjsbn668k0i5qfwzrghl612i0pgh-zlib-ng-2.2.4-bin",
+        "dev": "/nix/store/5rg8p2lzj5nvn24pnx7af2cvxsyzzlam-zlib-ng-2.2.4-dev",
+        "out": "/nix/store/nv1ikn4fichr00lpdi5b2j3mxldqymdn-zlib-ng-2.2.4"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "zlib-ng",
+      "broken": false,
+      "derivation": "/nix/store/9nq8idiw6ygmpzbf8zh4mgcm2pjrk4z6-zlib-ng-2.2.4.drv",
+      "description": "zlib data compression library for the next generation systems",
+      "install_id": "zlib-ng",
+      "license": "Zlib",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "name": "zlib-ng-2.2.4",
+      "pname": "zlib-ng",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T01:45:21.735708Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.2.4",
+      "outputs_to_install": [
+        "bin"
+      ],
+      "outputs": {
+        "bin": "/nix/store/czm7ws198zavrvfz6s9nw5q12sp4ha1r-zlib-ng-2.2.4-bin",
+        "dev": "/nix/store/xc6ls3jwlp68dgqvjgz89jxnvi3y0a11-zlib-ng-2.2.4-dev",
+        "out": "/nix/store/6mmjc0kadjamqwxrqwdhswrm8w3by3ja-zlib-ng-2.2.4"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "zlib-ng",
+      "broken": false,
+      "derivation": "/nix/store/12ycvgaw4362l5mr72187pfs4z0zc3qv-zlib-ng-2.2.4.drv",
+      "description": "zlib data compression library for the next generation systems",
+      "install_id": "zlib-ng",
+      "license": "Zlib",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "name": "zlib-ng-2.2.4",
+      "pname": "zlib-ng",
+      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "rev_count": 844474,
+      "rev_date": "2025-08-14T15:51:38Z",
+      "scrape_date": "2025-08-16T02:14:33.431042Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.2.4",
+      "outputs_to_install": [
+        "bin"
+      ],
+      "outputs": {
+        "bin": "/nix/store/2k8f5i806fq9hbxil95pj5l6337lpvn2-zlib-ng-2.2.4-bin",
+        "dev": "/nix/store/rz0sd3c57i8ar38mq87mdprr0pp2v35k-zlib-ng-2.2.4-dev",
+        "out": "/nix/store/36nlna11vlyj1n4lvxy3rcpm36z6zcb8-zlib-ng-2.2.4"
       },
       "system": "x86_64-linux",
       "group": "toplevel",

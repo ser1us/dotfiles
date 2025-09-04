@@ -50,6 +50,10 @@
     ~/Development/.flox:
       create: true
       path: home/development/.flox
+    ~/Development/.envrc:
+      create: true
+      path: home/development/.envrc
+
 - create:
     - ~/Downloads
     - ~/Development
