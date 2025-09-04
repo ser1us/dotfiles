@@ -24,11 +24,17 @@
       "git-lfs": {
         "pkg-path": "git-lfs"
       },
+      "github-cli": {
+        "pkg-path": "github-cli"
+      },
       "lazydocker": {
         "pkg-path": "lazydocker"
       },
       "lazygit": {
         "pkg-path": "lazygit"
+      },
+      "neovim": {
+        "pkg-path": "neovim"
       },
       "ripgrep": {
         "pkg-path": "ripgrep"
@@ -894,6 +900,122 @@
       "priority": 5
     },
     {
+      "attr_path": "github-cli",
+      "broken": false,
+      "derivation": "/nix/store/rx05q6jawgnmpm69anc6la28qgj7xx0b-gh-2.76.2.drv",
+      "description": "GitHub CLI tool",
+      "install_id": "github-cli",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=20075955deac2583bb12f07151c2df830ef346b4",
+      "name": "gh-2.76.2",
+      "pname": "github-cli",
+      "rev": "20075955deac2583bb12f07151c2df830ef346b4",
+      "rev_count": 846535,
+      "rev_date": "2025-08-19T15:00:17Z",
+      "scrape_date": "2025-08-24T15:38:53.241671Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.76.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/03sfs0afrm8j3gwrdnj324zw7yg959bd-gh-2.76.2"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "github-cli",
+      "broken": false,
+      "derivation": "/nix/store/wb1dl82i0zcx6rxm906dagjza4rsmz67-gh-2.76.2.drv",
+      "description": "GitHub CLI tool",
+      "install_id": "github-cli",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=20075955deac2583bb12f07151c2df830ef346b4",
+      "name": "gh-2.76.2",
+      "pname": "github-cli",
+      "rev": "20075955deac2583bb12f07151c2df830ef346b4",
+      "rev_count": 846535,
+      "rev_date": "2025-08-19T15:00:17Z",
+      "scrape_date": "2025-08-24T16:05:26.188699Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.76.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/pc1gkqbg0di68fpxqg5dxz0dvdvldf1a-gh-2.76.2"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "github-cli",
+      "broken": false,
+      "derivation": "/nix/store/jpmilbmbxpb2rb3riih6ffaq1wl7bvv0-gh-2.76.2.drv",
+      "description": "GitHub CLI tool",
+      "install_id": "github-cli",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=20075955deac2583bb12f07151c2df830ef346b4",
+      "name": "gh-2.76.2",
+      "pname": "github-cli",
+      "rev": "20075955deac2583bb12f07151c2df830ef346b4",
+      "rev_count": 846535,
+      "rev_date": "2025-08-19T15:00:17Z",
+      "scrape_date": "2025-08-24T16:29:25.947453Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.76.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/6sxip9nc0v8hsdyzjdhmj1qsxr3m4p6i-gh-2.76.2"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "github-cli",
+      "broken": false,
+      "derivation": "/nix/store/nyam2pqw1pw75ffd64gbki2v7l59a84x-gh-2.76.2.drv",
+      "description": "GitHub CLI tool",
+      "install_id": "github-cli",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=20075955deac2583bb12f07151c2df830ef346b4",
+      "name": "gh-2.76.2",
+      "pname": "github-cli",
+      "rev": "20075955deac2583bb12f07151c2df830ef346b4",
+      "rev_count": 846535,
+      "rev_date": "2025-08-19T15:00:17Z",
+      "scrape_date": "2025-08-24T16:57:27.382941Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.76.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/72ihgykz0r9a5s3iqzrcm9x2rnp3sjap-gh-2.76.2"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
       "attr_path": "lazydocker",
       "broken": false,
       "derivation": "/nix/store/mqr4xbwlygwphk7r6sfy1sbqg6xr037l-lazydocker-0.24.1.drv",
@@ -1120,6 +1242,122 @@
       ],
       "outputs": {
         "out": "/nix/store/wpazpb97ccmg1na1fp7s3nzdr39g7rsd-lazygit-0.54.2"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "neovim",
+      "broken": false,
+      "derivation": "/nix/store/9w1ply5n5jlghrl8sjbkh9dpiw92gafz-neovim-0.11.3.drv",
+      "description": "Vim text editor fork focused on extensibility and agility",
+      "install_id": "neovim",
+      "license": "[ Apache-2.0, Vim ]",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=20075955deac2583bb12f07151c2df830ef346b4",
+      "name": "neovim-0.11.3",
+      "pname": "neovim",
+      "rev": "20075955deac2583bb12f07151c2df830ef346b4",
+      "rev_count": 846535,
+      "rev_date": "2025-08-19T15:00:17Z",
+      "scrape_date": "2025-08-24T15:38:56.918039Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.11.3",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/myh94zy2aqvnyx03macfp7ls0d1r8ad3-neovim-0.11.3"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "neovim",
+      "broken": false,
+      "derivation": "/nix/store/ar2cvqa5l1s9pcp4wj5hjn6icq4qri4h-neovim-0.11.3.drv",
+      "description": "Vim text editor fork focused on extensibility and agility",
+      "install_id": "neovim",
+      "license": "[ Apache-2.0, Vim ]",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=20075955deac2583bb12f07151c2df830ef346b4",
+      "name": "neovim-0.11.3",
+      "pname": "neovim",
+      "rev": "20075955deac2583bb12f07151c2df830ef346b4",
+      "rev_count": 846535,
+      "rev_date": "2025-08-19T15:00:17Z",
+      "scrape_date": "2025-08-24T16:05:37.888265Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.11.3",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/jml2i40aa6diclvzwjniz7if7nx0diay-neovim-0.11.3"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "neovim",
+      "broken": false,
+      "derivation": "/nix/store/qf54dqihmb9h5awkb66x6qxhr1lmhidx-neovim-0.11.3.drv",
+      "description": "Vim text editor fork focused on extensibility and agility",
+      "install_id": "neovim",
+      "license": "[ Apache-2.0, Vim ]",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=20075955deac2583bb12f07151c2df830ef346b4",
+      "name": "neovim-0.11.3",
+      "pname": "neovim",
+      "rev": "20075955deac2583bb12f07151c2df830ef346b4",
+      "rev_count": 846535,
+      "rev_date": "2025-08-19T15:00:17Z",
+      "scrape_date": "2025-08-24T16:29:29.148744Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.11.3",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/mn6xdp92nnh17xcpczjdxarcl3f6iyy0-neovim-0.11.3"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "neovim",
+      "broken": false,
+      "derivation": "/nix/store/2bbx6r8xxgz97rxjf6d9xlmxnlnwwzax-neovim-0.11.3.drv",
+      "description": "Vim text editor fork focused on extensibility and agility",
+      "install_id": "neovim",
+      "license": "[ Apache-2.0, Vim ]",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=20075955deac2583bb12f07151c2df830ef346b4",
+      "name": "neovim-0.11.3",
+      "pname": "neovim",
+      "rev": "20075955deac2583bb12f07151c2df830ef346b4",
+      "rev_count": 846535,
+      "rev_date": "2025-08-19T15:00:17Z",
+      "scrape_date": "2025-08-24T16:57:41.505205Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.11.3",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/p1325jszqrigm8l4l69ddx3v9sp8hqkv-neovim-0.11.3"
       },
       "system": "x86_64-linux",
       "group": "toplevel",
