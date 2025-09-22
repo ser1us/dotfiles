@@ -15,18 +15,6 @@ version = 1
 ##  $ flox show gum     <- show all versions of a package
 ## -------------------------------------------------------------------
 [install]
-go.pkg-path = "go"
-erlang.pkg-path = "erlang"
-elixir.pkg-path = "elixir"
-dotnet-sdk_8.pkg-path = "dotnet-sdk_8"
-ruby.pkg-path = "ruby"
-python3.pkg-path = "python3"
-postgresql.pkg-path = "postgresql"
-pgloader.pkg-path = "pgloader"
-deno.pkg-path = "deno"
-git-lfs.pkg-path = "git-lfs"
-zlib-ng.pkg-path = "zlib-ng"
-nodejs_24.pkg-path = "nodejs_24"
 # gum.pkg-path = "gum"
 # gum.version = "^0.14.5"
 
