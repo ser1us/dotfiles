@@ -17,6 +17,9 @@
     ~/.config/nvim:
       create: true
       path: home/config/nvim
+    ~/.config/tree-sitter:
+      create: true
+      path: home/config/tree-sitter
     ~/AppData/local/nvim:
       create: true
       path: home/config/nvim

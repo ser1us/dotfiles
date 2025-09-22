@@ -69,6 +69,9 @@
       "ruby": {
         "pkg-path": "ruby"
       },
+      "rustup": {
+        "pkg-path": "rustup"
+      },
       "zig": {
         "pkg-path": "zig"
       },
@@ -2807,6 +2810,126 @@
       "outputs": {
         "devdoc": "/nix/store/mhaqxxmavvvsy6p2vb1qi3s02z1d2315-ruby-3.3.9-devdoc",
         "out": "/nix/store/mp4rpz283gw3abvxyb4lbh4vp9pmayp2-ruby-3.3.9"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "rustup",
+      "broken": false,
+      "derivation": "/nix/store/wk66wk5q1f7axbymbj2k42i9chfybmqk-rustup-1.28.2.drv",
+      "description": "Rust toolchain installer",
+      "install_id": "rustup",
+      "license": "[ Apache-2.0, MIT ]",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "name": "rustup-1.28.2",
+      "pname": "rustup",
+      "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "rev_count": 859555,
+      "rev_date": "2025-09-10T06:58:08Z",
+      "scrape_date": "2025-09-12T02:07:46.665549Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.28.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/q70bj005jz3smra5qikxq256rn22fsim-rustup-1.28.2"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "rustup",
+      "broken": false,
+      "derivation": "/nix/store/jzsnhr4x7dk34g3fhvgpfwc7mgicp3ib-rustup-1.28.2.drv",
+      "description": "Rust toolchain installer",
+      "install_id": "rustup",
+      "license": "[ Apache-2.0, MIT ]",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "name": "rustup-1.28.2",
+      "pname": "rustup",
+      "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "rev_count": 859555,
+      "rev_date": "2025-09-10T06:58:08Z",
+      "scrape_date": "2025-09-12T02:43:05.294205Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.28.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/x2k79iz4pb9my69661c2gg5vm5sgf42q-rustup-1.28.2"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "rustup",
+      "broken": false,
+      "derivation": "/nix/store/dfkc5l49s589d5pbx83qpynfl0l2xcdv-rustup-1.28.2.drv",
+      "description": "Rust toolchain installer",
+      "install_id": "rustup",
+      "license": "[ Apache-2.0, MIT ]",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "name": "rustup-1.28.2",
+      "pname": "rustup",
+      "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "rev_count": 859555,
+      "rev_date": "2025-09-10T06:58:08Z",
+      "scrape_date": "2025-09-12T03:14:43.404128Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.28.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/qg0riz8jgd02asrjn83bg1ifx9b1bp46-rustup-1.28.2"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "rustup",
+      "broken": false,
+      "derivation": "/nix/store/iap8nhq281f77my180yjamvj4bw7ax7r-rustup-1.28.2.drv",
+      "description": "Rust toolchain installer",
+      "install_id": "rustup",
+      "license": "[ Apache-2.0, MIT ]",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "name": "rustup-1.28.2",
+      "pname": "rustup",
+      "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "rev_count": 859555,
+      "rev_date": "2025-09-10T06:58:08Z",
+      "scrape_date": "2025-09-12T03:51:51.964507Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.28.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/ra2zx3av6408y4w2mcfryj1p2m69x2j1-rustup-1.28.2"
       },
       "system": "x86_64-linux",
       "group": "toplevel",
