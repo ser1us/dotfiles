@@ -53,6 +53,9 @@
     ~/.zshrc:
       create: true
       path: home/.zshrc
+    ~/.npmrc:
+      create: true
+      path: home/.npmrc
 
 - create:
     - ~/Downloads

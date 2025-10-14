@@ -110,3 +110,5 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 eval "$(flox activate -d ~ -m run)"
+export PATH=~/omnisharp:$PATH
+export PATH=~/elixir-ls:$PATH
