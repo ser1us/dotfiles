@@ -40,6 +40,8 @@ pgloader.pkg-path = "pgloader"
 deno.pkg-path = "deno"
 nodejs_24.pkg-path = "nodejs_24"
 rustup.pkg-path = "rustup"
+hugo.pkg-path = "hugo"
+helix.pkg-path = "helix"
 # gum.pkg-path = "gum"
 # gum.version = "^0.14.5"
 
