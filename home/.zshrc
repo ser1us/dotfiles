@@ -112,3 +112,4 @@ source $ZSH/oh-my-zsh.sh
 eval "$(flox activate -d ~ -m run)"
 export PATH=~/omnisharp:$PATH
 export PATH=~/elixir-ls:$PATH
+export HELIX_RUNTIME=~/.cache/helix/runtime

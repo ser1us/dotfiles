@@ -61,6 +61,7 @@
     - ~/Downloads
     - ~/Development
     - ~/.vim/undo-history
+    - ~/.cache/helix/runtime
 
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
