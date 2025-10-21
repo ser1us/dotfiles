@@ -54,9 +54,6 @@
       "lazygit": {
         "pkg-path": "lazygit"
       },
-      "lua-language-server": {
-        "pkg-path": "lua-language-server"
-      },
       "marksman": {
         "pkg-path": "marksman"
       },
@@ -2102,122 +2099,6 @@
       ],
       "outputs": {
         "out": "/nix/store/ia29fy8718hkv7i0hci53a3wp5f58bwa-lazygit-0.54.2"
-      },
-      "system": "x86_64-linux",
-      "group": "toplevel",
-      "priority": 5
-    },
-    {
-      "attr_path": "lua-language-server",
-      "broken": false,
-      "derivation": "/nix/store/rfl30b1jlixirijp29jhs56dhp7p8iyx-lua-language-server-3.15.0.drv",
-      "description": "Language server that offers Lua language support",
-      "install_id": "lua-language-server",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
-      "name": "lua-language-server-3.15.0",
-      "pname": "lua-language-server",
-      "rev": "8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
-      "rev_count": 856926,
-      "rev_date": "2025-09-05T10:37:24Z",
-      "scrape_date": "2025-09-08T03:40:59.617445Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "3.15.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/8l1aggqbrc8f8ngnbr4rkpvz8f41z3nm-lua-language-server-3.15.0"
-      },
-      "system": "aarch64-darwin",
-      "group": "toplevel",
-      "priority": 5
-    },
-    {
-      "attr_path": "lua-language-server",
-      "broken": false,
-      "derivation": "/nix/store/wjdv8nhqfqb3ik8fsaaw83m7gy7znp3g-lua-language-server-3.15.0.drv",
-      "description": "Language server that offers Lua language support",
-      "install_id": "lua-language-server",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
-      "name": "lua-language-server-3.15.0",
-      "pname": "lua-language-server",
-      "rev": "8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
-      "rev_count": 856926,
-      "rev_date": "2025-09-05T10:37:24Z",
-      "scrape_date": "2025-09-08T03:52:52.458936Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "3.15.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/f6m4kfidvcaffsij46kxbwcmmnikvgfa-lua-language-server-3.15.0"
-      },
-      "system": "aarch64-linux",
-      "group": "toplevel",
-      "priority": 5
-    },
-    {
-      "attr_path": "lua-language-server",
-      "broken": false,
-      "derivation": "/nix/store/51dcx3p2zxsayzsrfxh4045j2sy3vrcy-lua-language-server-3.15.0.drv",
-      "description": "Language server that offers Lua language support",
-      "install_id": "lua-language-server",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
-      "name": "lua-language-server-3.15.0",
-      "pname": "lua-language-server",
-      "rev": "8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
-      "rev_count": 856926,
-      "rev_date": "2025-09-05T10:37:24Z",
-      "scrape_date": "2025-09-08T04:22:21.436737Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "3.15.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/vw2d8dbqdslcv40j8c4rvpazi181b8wp-lua-language-server-3.15.0"
-      },
-      "system": "x86_64-darwin",
-      "group": "toplevel",
-      "priority": 5
-    },
-    {
-      "attr_path": "lua-language-server",
-      "broken": false,
-      "derivation": "/nix/store/wdkikkfn9gp3cca2wwr7zm8jhvi9lv60-lua-language-server-3.15.0.drv",
-      "description": "Language server that offers Lua language support",
-      "install_id": "lua-language-server",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
-      "name": "lua-language-server-3.15.0",
-      "pname": "lua-language-server",
-      "rev": "8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
-      "rev_count": 856926,
-      "rev_date": "2025-09-05T10:37:24Z",
-      "scrape_date": "2025-09-08T04:55:02.997965Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "3.15.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/687cpr053l0ggm3pfmfs0cha2p2p4lsf-lua-language-server-3.15.0"
       },
       "system": "x86_64-linux",
       "group": "toplevel",

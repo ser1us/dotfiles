@@ -2,7 +2,7 @@ return {
   "nvim-neotest/neotest",
   opts = {
     adapters = {
-      ["neotest-dotnet"] = {
+      ["neotest-vstest"] = {
         discovery_root = "solution",
       },
     },
