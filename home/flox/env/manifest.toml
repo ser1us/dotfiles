@@ -43,6 +43,7 @@ rustup.pkg-path = "rustup"
 hugo.pkg-path = "hugo"
 helix.pkg-path = "helix"
 marksman.pkg-path = "marksman"
+tmux.pkg-path = "tmux"
 # gum.pkg-path = "gum"
 # gum.version = "^0.14.5"
 
