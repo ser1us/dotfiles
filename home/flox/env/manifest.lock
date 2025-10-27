@@ -54,6 +54,12 @@
       "lazygit": {
         "pkg-path": "lazygit"
       },
+      "lua5_1": {
+        "pkg-path": "lua5_1"
+      },
+      "luarocks": {
+        "pkg-path": "luarocks"
+      },
       "marksman": {
         "pkg-path": "marksman"
       },
@@ -2102,6 +2108,242 @@
       ],
       "outputs": {
         "out": "/nix/store/ia29fy8718hkv7i0hci53a3wp5f58bwa-lazygit-0.54.2"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "lua5_1",
+      "broken": false,
+      "derivation": "/nix/store/ndfzf55xari10s15wb0raay973w12r0p-lua-5.1.5.drv",
+      "description": "Powerful, fast, lightweight, embeddable scripting language",
+      "install_id": "lua5_1",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "name": "lua-5.1.5",
+      "pname": "lua5_1",
+      "rev": "8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "rev_count": 856926,
+      "rev_date": "2025-09-05T10:37:24Z",
+      "scrape_date": "2025-09-08T03:41:00.555336Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "5.1.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/d62qlg31r76i04ady5fvlxzhsmjzwnhw-lua-5.1.5-doc",
+        "out": "/nix/store/9045cwiqj8mmdxzn4y3c87xprg7j468y-lua-5.1.5"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "lua5_1",
+      "broken": false,
+      "derivation": "/nix/store/0idkpa3bivsa5w0i2ch237yhn4i5kf97-lua-5.1.5.drv",
+      "description": "Powerful, fast, lightweight, embeddable scripting language",
+      "install_id": "lua5_1",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "name": "lua-5.1.5",
+      "pname": "lua5_1",
+      "rev": "8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "rev_count": 856926,
+      "rev_date": "2025-09-05T10:37:24Z",
+      "scrape_date": "2025-09-08T03:52:53.610288Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "5.1.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/bxfnglxk0xvbmxww2mgmgrvhfmicc4na-lua-5.1.5-doc",
+        "out": "/nix/store/ga1si7cpdm296n8kvaafpgj0pa97knzn-lua-5.1.5"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "lua5_1",
+      "broken": false,
+      "derivation": "/nix/store/0ljjzjl8m09d5cj920vcl9k117g33nh5-lua-5.1.5.drv",
+      "description": "Powerful, fast, lightweight, embeddable scripting language",
+      "install_id": "lua5_1",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "name": "lua-5.1.5",
+      "pname": "lua5_1",
+      "rev": "8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "rev_count": 856926,
+      "rev_date": "2025-09-05T10:37:24Z",
+      "scrape_date": "2025-09-08T04:22:22.357130Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "5.1.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/4fbc4nlvwmymgx2w06pnnri22ds2z567-lua-5.1.5-doc",
+        "out": "/nix/store/r1ll1az486rfa1cdl14fjqz6bk360h9m-lua-5.1.5"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "lua5_1",
+      "broken": false,
+      "derivation": "/nix/store/gx16jgcsmki8pqjxxxip1xzw8xssb1lx-lua-5.1.5.drv",
+      "description": "Powerful, fast, lightweight, embeddable scripting language",
+      "install_id": "lua5_1",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "name": "lua-5.1.5",
+      "pname": "lua5_1",
+      "rev": "8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "rev_count": 856926,
+      "rev_date": "2025-09-05T10:37:24Z",
+      "scrape_date": "2025-09-08T04:55:04.373350Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "5.1.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/9kdvsis09w8klggvhlbf8i9dv1mxhja9-lua-5.1.5-doc",
+        "out": "/nix/store/8v26zz0mzv9nyrs2v7n5ir7i7k4k2irx-lua-5.1.5"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "luarocks",
+      "broken": false,
+      "derivation": "/nix/store/4lna13lf0j5436pr84xapwyg4c4pgkp5-lua5.2-luarocks-3.12.2-1.drv",
+      "description": "A package manager for Lua modules.",
+      "install_id": "luarocks",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "name": "lua5.2-luarocks-3.12.2-1",
+      "pname": "luarocks",
+      "rev": "8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "rev_count": 856926,
+      "rev_date": "2025-09-05T10:37:24Z",
+      "scrape_date": "2025-09-08T03:41:01.043168Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.12.2-1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/y0kvxcsmhi8hxfbfwgjan6zrbwllwikg-lua5.2-luarocks-3.12.2-1"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "luarocks",
+      "broken": false,
+      "derivation": "/nix/store/ahysm1nhk17qqzn0jrfignqsgwn3hn0j-lua5.2-luarocks-3.12.2-1.drv",
+      "description": "A package manager for Lua modules.",
+      "install_id": "luarocks",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "name": "lua5.2-luarocks-3.12.2-1",
+      "pname": "luarocks",
+      "rev": "8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "rev_count": 856926,
+      "rev_date": "2025-09-05T10:37:24Z",
+      "scrape_date": "2025-09-08T03:52:54.235005Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.12.2-1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/ps04wnbsg7m6w2f4f1jfsli88i2q46cz-lua5.2-luarocks-3.12.2-1"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "luarocks",
+      "broken": false,
+      "derivation": "/nix/store/r9hqan7v6pjl92sdi8p3mg03dqyhzlfp-lua5.2-luarocks-3.12.2-1.drv",
+      "description": "A package manager for Lua modules.",
+      "install_id": "luarocks",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "name": "lua5.2-luarocks-3.12.2-1",
+      "pname": "luarocks",
+      "rev": "8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "rev_count": 856926,
+      "rev_date": "2025-09-05T10:37:24Z",
+      "scrape_date": "2025-09-08T04:22:22.849756Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.12.2-1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/iq63vjqdwqy0q3nf87s3ypv1mjgs1rsy-lua5.2-luarocks-3.12.2-1"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "luarocks",
+      "broken": false,
+      "derivation": "/nix/store/c52n8zz8ychm3l4jiqmxl4r17x2l7ib5-lua5.2-luarocks-3.12.2-1.drv",
+      "description": "A package manager for Lua modules.",
+      "install_id": "luarocks",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "name": "lua5.2-luarocks-3.12.2-1",
+      "pname": "luarocks",
+      "rev": "8eb28adfa3dc4de28e792e3bf49fcf9007ca8ac9",
+      "rev_count": 856926,
+      "rev_date": "2025-09-05T10:37:24Z",
+      "scrape_date": "2025-09-08T04:55:05.052474Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.12.2-1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/v9cki9bhlribfljrwlch223f60gf4w2h-lua5.2-luarocks-3.12.2-1"
       },
       "system": "x86_64-linux",
       "group": "toplevel",

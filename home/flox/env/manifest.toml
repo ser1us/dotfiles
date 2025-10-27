@@ -44,6 +44,8 @@ hugo.pkg-path = "hugo"
 helix.pkg-path = "helix"
 marksman.pkg-path = "marksman"
 tmux.pkg-path = "tmux"
+luarocks.pkg-path = "luarocks"
+lua5_1.pkg-path = "lua5_1"
 # gum.pkg-path = "gum"
 # gum.version = "^0.14.5"
 
