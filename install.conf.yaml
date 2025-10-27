@@ -26,9 +26,9 @@
     ~/AppData/local/nvim:
       create: true
       path: home/config/nvim
-    ~/.tmux.conf:
-      create: true
-      path: home/config/.tmux.conf
+    # ~/.tmux.conf:
+    #   create: true
+    #   path: home/config/.tmux.conf
     ~/.local/bin/cht.sh:
       create: true
       path: home/local/bin/cht.sh
