@@ -113,3 +113,6 @@ eval "$(flox activate -d ~ -m run)"
 export PATH=~/omnisharp:$PATH
 export PATH=~/elixir-ls:$PATH
 export HELIX_RUNTIME=~/.cache/helix/runtime
+export PATH=~/.cache/npm/bin:$PATH
+
+[ -z "$TMUX_PANE" ] && export TERM="xterm-256color"
