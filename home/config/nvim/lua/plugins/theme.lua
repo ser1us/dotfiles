@@ -5,7 +5,7 @@ return {
     priority = 1000,
     config = function()
       vim.g.edge_enable_italic = true
-      --vim.o.background = "light"
+      vim.o.background = "light"
     end,
   },
 
@@ -15,7 +15,7 @@ return {
 
     config = function()
       vim.g.edge_enable_italic = true
-      -- vim.o.background = "light"
+      vim.o.background = "light"
     end,
   },
 
@@ -23,7 +23,7 @@ return {
     "LazyVim/LazyVim",
     opts = {
       colorscheme = "catppuccin",
-      --colorscheme = "vscode",
+      -- colorscheme = "vscode",
     },
   },
 }
