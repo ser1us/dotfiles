@@ -1,17 +1,11 @@
 return {
-  "carlos-rodrigo/claude-code.nvim",
+  "coder/claudecode.nvim",
+  dependencies = { "nvim-lua/plenary.nvim" },
   keys = {
-    { "<leader>cc", "<cmd>ClaudeCodeToggle<cr>", desc = "Toggle Claude Panel" },
+    -- Opens Claude in a neat split terminal panel
+    { "<leader>cc", "<cmd>ClaudeCode<cr>", desc = "Open Claude Code Panel" },
   },
   opts = {
-    -- Explicitly tell the plugin to split, not use tabs
-    window_type = "split", 
-    -- Force Neovim to open splits on the right/bottom globally or via layout settings
-    position = "right", -- if supported by the plugin version
+    -- Custom options go here if needed
   },
-  config = function(_, opts)
-    -- This guarantees Neovim opens vertical splits on the right side
-    vim.opt.splitright = true 
-    require("claudecode").setup(opts)
-  end,
 }
