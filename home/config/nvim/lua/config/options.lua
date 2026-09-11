@@ -3,5 +3,5 @@
 -- Add any additional options here
 
 vim.o.list = true
-vim.o.listchars = "tab:> ,trail:-,nbsp:+,lead:•,eol:↲"
+vim.o.listchars = "tab:> ,trail:-,nbsp:+,lead:·,eol:↲"
 vim.opt.virtualedit = "block"
